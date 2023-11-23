@@ -1,0 +1,16 @@
+{
+  "name": "Julio Suarez",
+  "img": "https://avatars.githubusercontent.com/u/98365761?v=4",
+  "email": "just.julio95@gmail.com",
+  "links": {
+    "website": "juliosuarez.netlify.app",
+    "linkedin": "https://www.linkedin.com/in/julio-suarez95/",
+    "github": "https://github.com/justjulio95"
+  },
+  "jobTitle": "Fullstack Developer",
+  "location": {
+    "city": "Miami",
+    "state": "FL",
+    "country": "United States"
+  }
+}
